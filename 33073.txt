@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Jeden
-=======
 Dwa
->>>>>>> ad654a2 (Zmiana kat2)
+Trzy
